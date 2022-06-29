@@ -1,7 +1,7 @@
 ## Oiii eu sou a Glefferson Vicente!
 - 🌱 Atualmente estou estudando PHP,Phyton,Mysql
 - Estou procurando colaborar.
-- 📫 Como chegar até mim:gleffersonv@gmail.com
+- 📫 Como chegar até mim: gleffersonv@gmail.com
 ##
  
  <div align="center">
