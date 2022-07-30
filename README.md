@@ -1,5 +1,6 @@
 ## Olá sou Glefferson Vicente!
-- 🌱 Atualmente estou estudando PHP,Phyton,Mysql
+- 🌱 Atualmente estou estudando Trilha Ignite Rocketseat
+React | Next.js | React Native | Node.js | Typescript | Elixir
 - Estou procurando colaborar.
 - 📫 Como chegar até mim: gleffersonv@gmail.com
 ##
