@@ -1,5 +1,5 @@
 ## Olá sou Glefferson Vicente!
-🌱 Atualmente estou estudando:
+🌱 Atualmente estou me aprofundando:
 <strong>Trilha Ignite Rocketseat</strong>
 <p>React | Next.js | React Native | Node.js | Typescript | Elixir</p>
 - Estou procurando colaborar.
