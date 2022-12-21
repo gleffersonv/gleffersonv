@@ -1,7 +1,7 @@
 ## Olá sou Glefferson Vicente!
 🌱 Atualmente estou me aprofundando:
 <strong>Trilha Ignite Rocketseat</strong>
-<p>React | Next.js | React Native | Node.js | Typescript | Elixir</p>
+<p>React.Js | React Native | Node.js | Typescript |</p>
 - Estou procurando colaborar.
 - 📫 Como chegar até mim: gleffersonv@gmail.com<br><br>
  
