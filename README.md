@@ -1,7 +1,7 @@
 ## Olá sou Glefferson Vicente!
 🌱 Atualmente estou me aprofundando:
 <strong>Metodo .NET Direto ao Ponto - LuisDev</strong>
-<p>React.Js | React Native | Node.js | Typescript |</p>
+//<p>React.Js | React Native | Node.js | Typescript |</p>
 - Estou procurando colaborar.
 - 📫 Como chegar até mim: gleffersonv@gmail.com<br><br>
  
